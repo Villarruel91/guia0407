@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CINE | Star Action">
+    <display-name lang="es">CINE | Star Action</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="CINE | Star Fun">
+    <display-name lang="es">CINE | Star Fun</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="CINE | HBO 2">
+    <display-name lang="es">CINE | HBO 2</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="CINE | HBO Signature">
+    <display-name lang="es">CINE | HBO Signature</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="STAR | Star Comedy">
+    <display-name lang="es">STAR | Star Comedy</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <programme start="20210704000000 -0300" stop="20210704014200 -0300" channel="CINE | Star Action">
+    <title lang="es">El hombre de la máscara de hierro</title>
+  </programme>
+  <programme start="20210704014200 -0300" stop="20210704033400 -0300" channel="CINE | Star Action">
+    <title lang="es">RED 2</title>
+  </programme>
+  <programme start="20210704033400 -0300" stop="20210704052000 -0300" channel="CINE | Star Action">
+    <title lang="es">Tiempo límite</title>
+  </programme>
+  <programme start="20210704052000 -0300" stop="20210704070500 -0300" channel="CINE | Star Action">
+    <title lang="es">Armados y peligrosos</title>
+  </programme>
+  <programme start="20210704070500 -0300" stop="20210704085300 -0300" channel="CINE | Star Action">
+    <title lang="es">UFC Countdown</title>
+  </programme>
+  <programme start="20210704085300 -0300" stop="20210704104100 -0300" channel="CINE | Star Action">
+    <title lang="es">Soldado universal: El juicio final</title>
+  </programme>
+  <programme start="20210704104100 -0300" stop="20210704120600 -0300" channel="CINE | Star Action">
+    <title lang="es">Yo soy Durán</title>
+  </programme>
+  <programme start="20210704120600 -0300" stop="20210704134700 -0300" channel="CINE | Star Action">
+    <title lang="es">Non-Stop: sin escalas</title>
+  </programme>
+  <programme start="20210704134700 -0300" stop="20210704154900 -0300" channel="CINE | Star Action">
+    <title lang="es">Las Torres Gemelas</title>
+  </programme>
+  <programme start="20210704154900 -0300" stop="20210704173600 -0300" channel="CINE | Star Action">
+    <title lang="es">Top Gun, reto a la gloria</title>
+  </programme>
+  <programme start="20210704173600 -0300" stop="20210704190000 -0300" channel="CINE | Star Action">
+    <title lang="es">Lucy</title>
+  </programme>
+  <programme start="20210704190000 -0300" stop="20210704230000 -0300" channel="CINE | Star Action">
+    <title lang="es">UFC Preliminares</title>
+  </programme>
+  <programme start="20210704230000 -0300" stop="20210705000000 -0300" channel="CINE | Star Action">
+    <title lang="es">UFC Countdown</title>
+  </programme>
+  <programme start="20210704000000 -0300" stop="20210704020700 -0300" channel="CINE | Star Fun">
+    <title lang="es">Divergente</title>
+  </programme>
+  <programme start="20210704020700 -0300" stop="20210704035900 -0300" channel="CINE | Star Fun">
+    <title lang="es">Hulk, el hombre increíble</title>
+  </programme>
+  <programme start="20210704035900 -0300" stop="20210704053800 -0300" channel="CINE | Star Fun">
+    <title lang="es">La guardería del abuelo</title>
+  </programme>
+  <programme start="20210704053800 -0300" stop="20210704104800 -0300" channel="CINE | Star Fun">
+    <title lang="es">Comando Orange</title>
+  </programme>
+  <programme start="20210704104800 -0300" stop="20210704124100 -0300" channel="CINE | Star Fun">
+    <title lang="es">Enredadas</title>
+  </programme>
+  <programme start="20210704124100 -0300" stop="20210704140400 -0300" channel="CINE | Star Fun">
+    <title lang="es">Same Time, Next Christmas</title>
+  </programme>
+  <programme start="20210704140400 -0300" stop="20210704154700 -0300" channel="CINE | Star Fun">
+    <title lang="es">La familia Bélier</title>
+  </programme>
+  <programme start="20210704154700 -0300" stop="20210704171700 -0300" channel="CINE | Star Fun">
+    <title lang="es">Las hermanas vampiro 2: Murciélagos en el estómago</title>
+  </programme>
+  <programme start="20210704171700 -0300" stop="20210704185700 -0300" channel="CINE | Star Fun">
+    <title lang="es">Un guardaespaldas escolar</title>
+  </programme>
+  <programme start="20210704185700 -0300" stop="20210704202700 -0300" channel="CINE | Star Fun">
+    <title lang="es">La Pantera Rosa</title>
+  </programme>
+  <programme start="20210704202700 -0300" stop="20210704220000 -0300" channel="CINE | Star Fun">
+    <title lang="es">La pantera rosa 2</title>
+  </programme>
+  <programme start="20210704220000 -0300" stop="20210704232500 -0300" channel="CINE | Star Fun">
+    <title lang="es">Capitán Calzoncillos: el primer peliculón</title>
+  </programme>
+  <programme start="20210704232500 -0300" stop="20210705000000 -0300" channel="CINE | Star Fun">
+    <title lang="es">Al diablo con el diablo</title>
+  </programme>
+  <programme start="20210704000000 -0300" stop="20210704014500 -0300" channel="CINE | HBO 2">
+    <title lang="es">La estación de la felicidad</title>
+  </programme>
+  <programme start="20210704014500 -0300" stop="20210704032700 -0300" channel="CINE | HBO 2">
+    <title lang="es">Annabelle</title>
+  </programme>
+  <programme start="20210704032700 -0300" stop="20210704051500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Antebellum</title>
+  </programme>
+  <programme start="20210704051500 -0300" stop="20210704060000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Diarios del COVID, NYC</title>
+  </programme>
+  <programme start="20210704060000 -0300" stop="20210704075500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Palabras en las paredes del baño</title>
+  </programme>
+  <programme start="20210704075500 -0300" stop="20210704105000 -0300" channel="CINE | HBO 2">
+    <title lang="es">It: Capítulo 2</title>
+  </programme>
+  <programme start="20210704105000 -0300" stop="20210704122500 -0300" channel="CINE | HBO 2">
+    <title lang="es">La hora de tu muerte</title>
+  </programme>
+  <programme start="20210704122500 -0300" stop="20210704142500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Sólo para parejas</title>
+  </programme>
+  <programme start="20210704142500 -0300" stop="20210704154000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Juan Luis Guerra 4.40: entre mar y palmeras</title>
+  </programme>
+  <programme start="20210704154000 -0300" stop="20210704172000 -0300" channel="CINE | HBO 2">
+    <title lang="es">¡Scooby!</title>
+  </programme>
+  <programme start="20210704172000 -0300" stop="20210704192000 -0300" channel="CINE | HBO 2">
+    <title lang="es">La brújula dorada</title>
+  </programme>
+  <programme start="20210704192000 -0300" stop="20210704211500 -0300" channel="CINE | HBO 2">
+    <title lang="es">Cirque du Freak: el aprendiz de vampiro</title>
+  </programme>
+  <programme start="20210704211500 -0300" stop="20210704220000 -0300" channel="CINE | HBO 2">
+    <title lang="es">Batwoman</title>
+  </programme>
+  <programme start="20210704220000 -0300" stop="20210705000000 -0300" channel="CINE | HBO 2">
+    <title lang="es">It: Capítulo 2</title>
+  </programme>
+  <programme start="20210704000000 -0300" stop="20210704004500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Hasta el fin</title>
+  </programme>
+  <programme start="20210704004500 -0300" stop="20210704020000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Finales alternativos: seis nuevas maneras de morir</title>
+  </programme>
+  <programme start="20210704020000 -0300" stop="20210704032200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Atreverse</title>
+  </programme>
+  <programme start="20210704032200 -0300" stop="20210704045200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">La serpiente de Alabama</title>
+  </programme>
+  <programme start="20210704045200 -0300" stop="20210704065800 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Gia</title>
+  </programme>
+  <programme start="20210704065800 -0300" stop="20210704080000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Mis formas favoritas por Julio Torres</title>
+  </programme>
+  <programme start="20210704080000 -0300" stop="20210704085000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Burning Ojai: Our Fire Story</title>
+  </programme>
+  <programme start="20210704085000 -0300" stop="20210704110000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Como gustéis</title>
+  </programme>
+  <programme start="20210704110000 -0300" stop="20210704120200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">True Blood</title>
+  </programme>
+  <programme start="20210704120200 -0300" stop="20210704130000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">True Blood</title>
+  </programme>
+  <programme start="20210704130000 -0300" stop="20210704135700 -0300" channel="CINE | HBO Signature">
+    <title lang="es">True Blood</title>
+  </programme>
+  <programme start="20210704135700 -0300" stop="20210704145200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">True Blood</title>
+  </programme>
+  <programme start="20210704145200 -0300" stop="20210704155200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">True Blood</title>
+  </programme>
+  <programme start="20210704155200 -0300" stop="20210704164800 -0300" channel="CINE | HBO Signature">
+    <title lang="es">True Blood</title>
+  </programme>
+  <programme start="20210704164800 -0300" stop="20210704174500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">True Blood</title>
+  </programme>
+  <programme start="20210704174500 -0300" stop="20210704184500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">True Blood</title>
+  </programme>
+  <programme start="20210704184500 -0300" stop="20210704194200 -0300" channel="CINE | HBO Signature">
+    <title lang="es">True Blood</title>
+  </programme>
+  <programme start="20210704194200 -0300" stop="20210704203600 -0300" channel="CINE | HBO Signature">
+    <title lang="es">True Blood</title>
+  </programme>
+  <programme start="20210704203600 -0300" stop="20210704213300 -0300" channel="CINE | HBO Signature">
+    <title lang="es">True Blood</title>
+  </programme>
+  <programme start="20210704213300 -0300" stop="20210704223000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">True Blood</title>
+  </programme>
+  <programme start="20210704223000 -0300" stop="20210704230500 -0300" channel="CINE | HBO Signature">
+    <title lang="es">Betty</title>
+  </programme>
+  <programme start="20210704230500 -0300" stop="20210705000000 -0300" channel="CINE | HBO Signature">
+    <title lang="es">El palacio de Joe</title>
+  </programme>
+  <programme start="20210704000000 -0300" stop="20210704014100 -0300" channel="STAR | Star Comedy">
+    <title lang="es">Salón de belleza</title>
+  </programme>
+  <programme start="20210704014100 -0300" stop="20210704031900 -0300" channel="STAR | Star Comedy">
+    <title lang="es">Josie y las gatimelódicas</title>
+  </programme>
+  <programme start="20210704031900 -0300" stop="20210704050200 -0300" channel="STAR | Star Comedy">
+    <title lang="es">Agentes del desorden</title>
+  </programme>
+  <programme start="20210704050200 -0300" stop="20210704062800 -0300" channel="STAR | Star Comedy">
+    <title lang="es">Angel Falls: A Novel Holiday</title>
+  </programme>
+  <programme start="20210704062800 -0300" stop="20210704075800 -0300" channel="STAR | Star Comedy">
+    <title lang="es">Pasión por el triunfo 3</title>
+  </programme>
+  <programme start="20210704080100 -0300" stop="20210704082500 -0300" channel="STAR | Star Comedy">
+    <title lang="es">Atlanta</title>
+  </programme>
+  <programme start="20210704082500 -0300" stop="20210704085100 -0300" channel="STAR | Star Comedy">
+    <title lang="es">Atlanta</title>
+  </programme>
+  <programme start="20210704085100 -0300" stop="20210704102200 -0300" channel="STAR | Star Comedy">
+    <title lang="es">El retiro</title>
+  </programme>
+  <programme start="20210704102200 -0300" stop="20210704120900 -0300" channel="STAR | Star Comedy">
+    <title lang="es">El viaje</title>
+  </programme>
+  <programme start="20210704120900 -0300" stop="20210704134000 -0300" channel="STAR | Star Comedy">
+    <title lang="es">Fotografía esto</title>
+  </programme>
+  <programme start="20210704134000 -0300" stop="20210704151800 -0300" channel="STAR | Star Comedy">
+    <title lang="es">Josie y las gatimelódicas</title>
+  </programme>
+  <programme start="20210704151800 -0300" stop="20210704164000 -0300" channel="STAR | Star Comedy">
+    <title lang="es">Rapture-Palooza</title>
+  </programme>
+  <programme start="20210704164000 -0300" stop="20210704183900 -0300" channel="STAR | Star Comedy">
+    <title lang="es">Loco por Mary</title>
+  </programme>
+  <programme start="20210704183900 -0300" stop="20210704201300 -0300" channel="STAR | Star Comedy">
+    <title lang="es">Jugando con fuego</title>
+  </programme>
+  <programme start="20210704201300 -0300" stop="20210704220000 -0300" channel="STAR | Star Comedy">
+    <title lang="es">Pequeño gran problema</title>
+  </programme>
+  <programme start="20210704220000 -0300" stop="20210704235500 -0300" channel="STAR | Star Comedy">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210704235500 -0300" stop="20210705000000 -0300" channel="STAR | Star Comedy">
+    <title lang="es">Una noche fuera de serie</title>
+  </programme>
+</tv>
